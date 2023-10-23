@@ -1,0 +1,1 @@
+# generic-wordpress-plugin
